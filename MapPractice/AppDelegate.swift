@@ -3,7 +3,7 @@
 //  MapPractice
 //
 //  Created by Saurav Aryal on 2/27/16.
-//  Copyright © 2016 Roshan Thapaliya. All rights reserved.
+//  Copyright © 2016 Saurav Aryal. All rights reserved.
 //
 
 import UIKit
